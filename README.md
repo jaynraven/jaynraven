@@ -1,4 +1,3 @@
-## Hi there, I'm Jay👋
 
 <div align="center">
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -9,8 +8,7 @@
 </picture>
 </div>
 
-<h1>Hey! Nice to see you.</h1>
-
+<h2>Hi there, I'm Jay👋</h2>
 
 <p>Welcome to my page! </br> I'm Jay, Beginner developer from Shenzhen, China.</br></p>
 <h3>Platforms</h3>
