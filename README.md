@@ -14,7 +14,7 @@
   <img alt="c++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-<h3>Toos</h3>
+<h3>Tools</h3>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="vs" src="https://img.shields.io/badge/-VS-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
