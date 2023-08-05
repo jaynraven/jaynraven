@@ -1,18 +1,8 @@
-
-<!-- <div align="center"> -->
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jaynraven/jaynraven/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jaynraven/jaynraven/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/jaynraven/jaynraven/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jaynraven/jaynraven/resource/snk/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jaynraven/jaynraven/resource/snk/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/jaynraven/jaynraven/resource/snk/github-contribution-grid-snake-dark.svg" />
 </picture>
-<!-- </div> -->
 
 <h2>Hi there, I'm Jay👋</h2>
 
