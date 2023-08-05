@@ -4,6 +4,12 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/jaynraven/jaynraven/resource/snk/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h2>Hi there, I'm Jay👋</h2>
 
 <p>Welcome to my page! </br> I'm Jay, Beginner developer from Shenzhen, China.</br></p>
