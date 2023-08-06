@@ -7,7 +7,7 @@
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=jaynraven&theme=github&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=jaynraven&theme=github-compact&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
