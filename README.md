@@ -5,15 +5,7 @@
 </picture>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=jaynraven&theme=github-compact&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
-
-<table>
-<tr><td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaynraven&theme=github-compact&bg_color=FF000000&hide_border=true" alt="Activity"/>
   
 <h2>Hi there, I'm Jay👋</h2>
 
@@ -37,6 +29,3 @@
   <img alt="vscode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="cmake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
 </p>
-
-</td></tr>
-</table>
