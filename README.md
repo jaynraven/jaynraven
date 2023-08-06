@@ -11,6 +11,10 @@
   </tr>
 </table>
 
+
+<table>
+<tr><td>
+  
 <h2>Hi there, I'm Jay👋</h2>
 
 <p>Welcome to my page! </br> I'm Jay, Beginner developer from Shenzhen, China.</br></p>
@@ -33,3 +37,6 @@
   <img alt="vscode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="cmake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
 </p>
+
+</td></tr>
+</table>
