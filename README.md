@@ -4,6 +4,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jaynraven/jaynraven/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=jaynraven&theme=github&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
 <h2>Hi there, I'm Jay👋</h2>
 
 <p>Welcome to my page! </br> I'm Jay, Beginner developer from Shenzhen, China.</br></p>
