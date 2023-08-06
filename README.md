@@ -5,7 +5,7 @@
 </picture>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaynraven&theme=github-compact&bg_color=FF000000&hide_border=true" alt="Activity"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaynraven&theme=github-compact&bg_color=FF000000&hide_border=true" alt="Activity"/> -->
   
 <h2>Hi there, I'm Jay👋</h2>
 
