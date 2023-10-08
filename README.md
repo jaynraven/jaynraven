@@ -25,7 +25,6 @@
 <h3>Tools</h3>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="svn" src="https://img.shields.io/badge/-Svn-7e9bc7?style=flat-square&logo=svn&logoColor=white" />
   <img alt="vs" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="cmake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
