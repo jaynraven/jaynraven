@@ -27,6 +27,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="vs" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="cmake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
   <img alt="qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 </p>
